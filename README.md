@@ -39,9 +39,9 @@
 
 ## 📈 GitHub Stats
 
-![Sharon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharondanniel&show_icons=true&theme=radical)
+![Sharon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharondaniel2004&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharondanniel&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharondaniel2004&layout=compact&theme=radical)
 
 
 ---
