@@ -39,10 +39,10 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharondaniel2004l&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharondaniel2004l&layout=compact&theme=radical" width="48%" />
-</p>
+![Sharon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharondaniel2004&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharondaniel2004&layout=compact&theme=radical)
+
 
 ---
 
