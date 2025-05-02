@@ -63,7 +63,6 @@
 
 - 🎹 I play the piano & love music  
 - 🏸 I enjoy playing badminton  
-- 📘 Teaching my sister Python  
 - 🎯 Targeting companies like **ZOHO**  
 - 💬 Always learning & solving on LeetCode
 
