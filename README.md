@@ -25,7 +25,7 @@
 | Frontend | Backend | Database | Tools |
 |----------|---------|----------|-------|
 | <img src="https://img.icons8.com/color/48/000000/flutter.png" width="30"/> Flutter | <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="30"/> Java | <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="30"/> MongoDB | <img src="https://img.icons8.com/color/48/000000/github.png" width="30"/> GitHub |
-| HTML, CSS (Basic) | REST API | MySQL | Eclipse, VS Code, Postman |
+| HTML, CSS (Basic) | REST API | MySQL | Eclipse, VS Code |
 
 ---
 
@@ -52,7 +52,7 @@
   <a href="mailto:sharondanniel24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/sharondaniel2004">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
